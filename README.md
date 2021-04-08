@@ -1,0 +1,27 @@
+# :computer: :pushpin: Projeto Banckend com MongoDb
+
+
+#### :small_blue_diamond: Tecnologias usadas no desenvolvimento:
+- linguagem Java no SpringBoot
+- Maven como gerenciador de dependências
+- Postman para teste de requisições
+- banco de dados mongoDb
+- Padrão do projeto DTO
+
+##### :small_blue_diamond: Métodos para entidade Users:
+- inserir
+- atualizar
+- encontrar todos
+- encontrar pelo ID
+
+##### :small_blue_diamond: Métodos para entidade Post:
+- encontrar pelo ID
+- encontrar pelo titulo
+- encontrar por qualqer palavra no post
+
+
+
+#### :small_blue_diamond: UML - Modelo de domínio
+![UML](https://github.com/anna104016/backend-library/blob/main/uml-libray.png)
+
+#### :small_blue_diamond: Modelo de camadas
