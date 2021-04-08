@@ -16,7 +16,7 @@
 
 ##### :small_blue_diamond: Métodos para entidade Post:
 - encontrar pelo ID
-- encontrar pelo titulo
+- encontrar pelo título
 - encontrar por qualqer palavra no post
 
 
