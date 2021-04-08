@@ -1,5 +1,6 @@
 # :computer: :pushpin: Projeto Banckend com MongoDb
 
+#### Projeto com usuários que possuem posts, e seus posts possuem comentários.
 
 #### :small_blue_diamond: Tecnologias usadas no desenvolvimento:
 - linguagem Java no SpringBoot
