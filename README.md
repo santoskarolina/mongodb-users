@@ -26,4 +26,4 @@
 ![UML](https://github.com/anna104016/mongodb-users/blob/main/commentsUml.PNG)
 
 #### :small_blue_diamond: Modelo de camadas
-![DOMAIN MODEL](https://github.com/anna104016/mongodb-users/blob/main/domain%20model.png)
+![DOMAIN MODEL](https://github.com/anna104016/html/blob/main/estrutura%20de%20camadas01.png)
